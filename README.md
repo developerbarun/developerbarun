@@ -90,18 +90,6 @@
 
 </div>
 
----
-
-### 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=developerbarun&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
-
-</div>
-
----
-
 <div align="center">
 
 _⭐ If you find my work interesting, consider starring some repos!_
