@@ -17,7 +17,7 @@
 - 🤖 Passionate about **AI/ML applications** that solve real-world problems
 - 💻 Full-stack developer working with **Node.js, React, TypeScript & Python**
 - 🌱 Always learning — currently exploring **LLMs and agentic AI systems**
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **barung2023@gmail.com**
 - 📍 Based in **Pune, India**
 
 ---
@@ -54,13 +54,13 @@
 
 ### 📌 Featured Projects
 
-| Project | Description | Stack | Live |
-|--------|-------------|-------|------|
-| 🧠 [Second Brain](https://github.com/developerbarun/Second_Brain) | Personal knowledge management & note-taking app | TypeScript, React, Node.js | [▶ Live](https://second-brain-dkkx.vercel.app/) |
-| 🤖 [AI Career Platform](https://github.com/developerbarun/AI-Career-And-Learning-Platform) | AI-powered career advisor with personalized learning paths | JS, React, Node.js, ML | WIP |
-| 👗 [FashionSense](https://github.com/developerbarun/FashionSense) | AI-driven fashion recommendation engine | Python, ML | WIP |
-| 🛡️ [LLM for Women Safety](https://github.com/developerbarun/LLM-for-Women-Safety-) | LLM-powered safety assistant for women | Python, LLMs | WIP |
-| 📚 [Course Selling API](https://github.com/developerbarun/course_selling_app_api) | RESTful API for an online course marketplace | Node.js, Express, MongoDB | — |
+| Project                                                                                    | Description                                                | Stack                      | Live                                            |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------- | -------------------------- | ----------------------------------------------- |
+| 🧠 [Second Brain](https://github.com/developerbarun/Second_Brain)                          | Personal knowledge management & note-taking app            | TypeScript, React, Node.js | [▶ Live](https://second-brain-dkkx.vercel.app/) |
+| 🤖 [AI Career Platform](https://github.com/developerbarun/AI-Career-And-Learning-Platform) | AI-powered career advisor with personalized learning paths | JS, React, Node.js, ML     | WIP                                             |
+| 👗 [FashionSense](https://github.com/developerbarun/FashionSense)                          | AI-driven fashion recommendation engine                    | Python, ML                 | WIP                                             |
+| 🛡️ [LLM for Women Safety](https://github.com/developerbarun/LLM-for-Women-Safety-)         | LLM-powered safety assistant for women                     | Python, LLMs               | WIP                                             |
+| 📚 [Course Selling API](https://github.com/developerbarun/course_selling_app_api)          | RESTful API for an online course marketplace               | Node.js, Express, MongoDB  | —                                               |
 
 ---
 
@@ -104,6 +104,6 @@
 
 <div align="center">
 
-*⭐ If you find my work interesting, consider starring some repos!*
+_⭐ If you find my work interesting, consider starring some repos!_
 
 </div>
